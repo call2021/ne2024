@@ -1,0 +1,70 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78x",
+      "backup_ads_intertitial":"518cd97722c60b52x",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779x",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Keuanagan",
+      "high_paying_keyword_2": "Kencan",
+      "high_paying_keyword_3": "Dewa zeus",
+      "high_paying_keyword_4": "Kesehatan",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+  "Item": [
+    {
+      "id":1,
+      "name":"Vior Sayang",
+      "image_url":"file:///android_asset/vioronicgusyasaaajbsj1.png",
+      "video_url":"videovioronic1",
+      "voice_url":"viorsuara.mp3"
+    },
+    {
+      "id":2,
+      "name":"Vior Sayang",
+      "image_url":"file:///android_asset/vioronicgusyasaaajbsj2.png",
+      "video_url":"videovioronic2",
+      "voice_url":"viorsuara.mp3"
+    },
+    {
+      "id":3,
+      "name":"Vior Sayang",
+      "image_url":"file:///android_asset/vioronicgusyasaaajbsj3.png",
+      "video_url":"videovioronic3",
+      "voice_url":"viorsuara.mp3"
+    },
+    {
+      "id":4,
+      "name":"Vior Sayang",
+      "image_url":"file:///android_asset/vioronicgusyasaaajbsj4.png",
+      "video_url":"videovioronic1",
+      "voice_url":"viorsuara.mp3"
+    },
+    {
+      "id":5,
+      "name":"Vior Sayang",
+      "image_url":"file:///android_asset/vioronicgusyasaaajbsj5.png",
+      "video_url":"videovioronic2",
+      "voice_url":"viorsuara.mp3"
+    },
+    {
+      "id":6,
+      "name":"Vior Sayang",
+      "image_url":"file:///android_asset/vioronicgusyasaaajbsj6.png",
+      "video_url":"videovioronic3",
+      "voice_url":"viorsuara.mp3"
+    }
+  ]
+
+}
